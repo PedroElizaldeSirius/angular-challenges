@@ -94,6 +94,8 @@ Contributions of any kind are welcome.
 
 If I have forgotten to add you as a contributor, please reach out to me. 🙏
 
+Angular challenges for training
+
 ## License
 
 MIT
